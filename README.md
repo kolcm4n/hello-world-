@@ -1,2 +1,8 @@
 # hello-world-
-#start
+
+
+yo, im Jenya!
+
+I am a novice system administrator who wants to know everything!
+
+Glad everything is interesting :)
